@@ -6,11 +6,11 @@
 
 ## The Badges of Building of Pipelines and Releasing
 
-|Microservices| Azure Pipelines|Github Workflow|
+|Microservices|Github Workflow|Azure Pipelines|
 |:--:|:--:|:---:|
 | Identity |![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
 |Projects|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
-|Communities|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master))|
+|Communities|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
 |Assignments|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
 |RealTime|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
 |Courses|![.NET Core](https://github.com/AhmedKhalil777/TAVSSonContainers.Project.API/workflows/.NET%20Core/badge.svg)|![Build Status](https://dev.azure.com/TavssOnContainers/Project.API/_apis/build/status/Project.API?branchName=master)|
