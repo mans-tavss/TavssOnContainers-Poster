@@ -23,3 +23,5 @@
 - Using __SQL Server and MongoDB__ for databasing using single database per service design pattern
 - Using __OCELOT middleware__ for implementing API Gateway Design Patterns.
 ![Scrum/Devops](../PICS/PosterWorking.png)
+
+## © Ahmed Khalil __Mansoura University__ 2019/2020
