@@ -4,7 +4,7 @@
 # Results
 ---
 
-## The Badges of Building of Pipelines and Releasing
+## The Badges of Pipelines Building   and Releasing
 
 |Microservices|Github Workflow|Azure Pipelines|
 |:--:|:--:|:---:|
